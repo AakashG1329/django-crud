@@ -14,4 +14,4 @@ pipenv install djangorestframework-simplejwt
 install djangorestframework markdown django-filter
  & "C:/Users/Aakash G/.virtualenvs/ecommerce-zU-hVTqG/Scripts/python.exe"
  C:\Users\Aakash G\.virtualenvs\ecommerce_API-cM0Sep3w\Scripts\activate
- pip install django-cors-headers
+ 
