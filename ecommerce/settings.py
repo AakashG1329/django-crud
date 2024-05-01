@@ -11,10 +11,10 @@ https://docs.djangoproject.com/en/5.0/ref/settings/
 """
 
 from pathlib import Path
-import pymysql
+# import pymysql
 from datetime import timedelta
 import os 
-pymysql.install_as_MySQLdb()
+# pymysql.install_as_MySQLdb()
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
