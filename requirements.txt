@@ -13,3 +13,4 @@ djangorestframework==3.15.1
 djangorestframework-simplejwt==5.3.1
 pyjwt==2.8.0
 corsheaders==4.3.1
+django==5.0.4
